@@ -1,0 +1,8 @@
+Iam user(Administrative access)
+AWS CLI configure with secret access keys
+conda create -p aistarters1stMLProject  python=3.8
+cls
+conda activate aistarters1stMLProject/\   # Inside myenv aistarters1stMLProject
+create requirements.txt
+pip install -r requirements.txt 
+S3 - storage space to be used for longer period of time
